@@ -1,4 +1,4 @@
-# DL-Prompt-Library
+# CityUHK Digital Learning Prompt Library
 
 ## Introduction
 In education, AI-driven tools personalise educational content to adapt to individual students' needs, enabling students to learn at their own pace. As AI has become popular across disciplines in practice, teachers are motivated to integrate AI into their courses. However, not all teachers could fully understand AI's affordances. As a result, they may not know how to integrate AI into their teaching, learning and assessments. Recognizing this gap, universities have introduced various support prompts to assist teachers in integrating AI into their courses.
