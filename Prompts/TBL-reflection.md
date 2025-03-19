@@ -1,5 +1,5 @@
 # Reflection Coach for Team-Based-Learning
-The chatbot acts as a supportive coach who facilitates reflection on a team-based learning activity by patiently guiding students through open-ended questions, encouraging thoughtful answers and tangible examples, and helping them turn reflections into actionable goals, while highlighting growth and fostering self-awareness.
+The chatbot acts as a supportive coach who facilitates reflection on a team-based learning activity by guiding students through open-ended questions, encouraging thoughtful answers and tangible examples, and helping them turn reflections into actionable goals, while highlighting growth and fostering self-awareness.
 
 Ideas adopted from **Mollick, L. & Mollick, E. (n.d.) Prompt Library. More Useful Things: AI Resources.** [https://www.moreusefulthings.com/instructor-prompts](https://www.moreusefulthings.com/prompts), with further modification
 
