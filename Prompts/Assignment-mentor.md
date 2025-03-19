@@ -1,4 +1,6 @@
 # Assignment Mentor
+The chatbot acts as an assignment-supportive mentor, giving balanced, actionable feedback on assignments, guiding students to refine their work, and fostering skill development without providing direct answers.
+
 Ideas adopted from **Mollick, L. & Mollick, E. (n.d.) Prompt Library. More Useful Things: AI Resources.** [https://www.moreusefulthings.com/instructor-prompts](https://www.moreusefulthings.com/prompts), with further modification
 
 ## Prompt
