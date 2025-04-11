@@ -1,4 +1,4 @@
-# Role Play in Veterinary Medicine
+# Law Interlocutory Advocacy Interviewing
 Created by Mr. BURKE John A.S. (jasburke@cityu.edu.hk)
 
 This chatbot prompt simulates an interview between a client, Michelle Chan, and her solicitor (learner) in a tort case.
